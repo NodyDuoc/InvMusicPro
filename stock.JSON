@@ -1,0 +1,23 @@
+[
+    {
+        "id_mov": 0,
+        "cantidad":50,
+        "codigo_prod": 1,
+        "tipo_mov": "inicial",
+        "fecha": "04/05/23"
+    },
+    {   "id_mov": 1,
+        "cantidad":-10,
+        "codigo_prod": 1,
+        "tipo_mov": "salida_venta",
+        "fecha": "05/05/23"
+    },
+    {
+        "id_mov": 2,
+        "cantidad":20,
+        "codigo_prod": 1,
+        "tipo_mov": "entrada_compra",
+        "fecha": "06/05/23"
+    }
+]
+
